@@ -7,12 +7,14 @@
 
 <h2>About the application</h2>
 <p align="justify">
-<img width="170" src="http://www.abinit.org/logo.png" border="0">
+<img width="100" src="http://www.clustal.org/images/clustalw_big.png" border="0">
 is a widely used multiple program for multiple alignment of nucleic acid and protein sequences. sequence alignment computer program.</br></br>
 
 The program accepts a wide range on input formats including: NBRF/PIR, FASTA, EMBL/Swissprot, Clustal, GCC/MSF, GCG9 RSF, and GDE, and executes the following workflow:</br></br>
 - Pairwise alignment
+
 - Creation of a phylogenetic tree (or use a user-defined tree)
+
 - Use of the phylogenetic tree to carry out a multiple alignment
  </br></br>
 
