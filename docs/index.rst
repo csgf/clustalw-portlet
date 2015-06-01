@@ -103,7 +103,7 @@ To perform the Multi Sequence Alignment for DNA or protein the user has to:
 
 Each simulation will produce:
 
-- *std.txt*: the standard output file;
+- *std.out*: the standard output file;
 
 - *std.err*: the standard error file;
 
@@ -116,7 +116,7 @@ A typical simulation produces, at the end, the following files:
         ]$ tree SequenceAlignmentSimulationStarted_126163/
         SequenceAlignmentSimulationStarted_126163/
         ├── std.err
-        ├── std.txt
+        ├── std.out
         ├── output.README
         └── outputs.tar.gz
 
