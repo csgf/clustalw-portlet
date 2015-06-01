@@ -1,5 +1,5 @@
 *********************
-iCLUSTALW v1.0.1 Docs
+CLUSTALW v1.0.1 Docs
 *********************
 
 ============
@@ -13,7 +13,7 @@ About
 .. _5: https://sgw.africa-grid.org/
 .. _6: http://www.eumedgrid.eu/
 
-ClustalW2 is a widely used multiple program for multiple alignment of nucleic acid and protein sequences. sequence alignment computer program.
+ClustalW2 [1_] is a widely used multiple program for multiple alignment of nucleic acid and protein sequences. sequence alignment computer program.
 
 The program accepts a wide range on input formats including: NBRF/PIR, FASTA, EMBL/Swissprot, Clustal, GCC/MSF, GCG9 RSF, and GDE, and executes the following workflow:
 
