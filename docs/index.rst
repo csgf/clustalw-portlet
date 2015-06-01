@@ -2,6 +2,12 @@
 CLUSTALW v1.0.1 Docs
 *********************
 
+.. image:: images/ClustalW.jpeg
+   :width: 400px
+   :align: left
+   :target: http://www.clustal.org/
+-------------
+
 ============
 About
 ============
