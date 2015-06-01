@@ -27,7 +27,7 @@ Users can align the sequences using the default setting but occasionally it may 
 
 For more information:
 
-- See the official documentation here [2_];
+- Consult the official documentation [2_];
 
 - Clustal W and Clustal X version 2.0 [3_];
 
@@ -113,12 +113,16 @@ A typical simulation produces, at the end, the following files:
 
 .. code:: bash
 
-        ]$ tree FrattSimulationStarted_765/
-        FrattSimulationStarted_765/
+        ]$ tree SequenceAlignmentSimulationStarted_126163/
+        SequenceAlignmentSimulationStarted_126163/
         ├── std.err
         ├── std.txt
         ├── output.README
-        └── results.tar.gz
+        └── outputs.tar.gz
+
+        ]$ tar zxvf outputs.tar.gz 
+        20150601120928_larocca.aln
+        20150601120928_larocca.dnd
 
 ============
 Support
