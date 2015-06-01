@@ -27,11 +27,11 @@ Users can align the sequences using the default setting but occasionally it may 
 
 For more information:
 
-- 2_;
+- See the official documentation here [2_];
 
-- 3_;
+- Clustal W and Clustal X version 2.0 [3_];
 
-- The MP4 file is a video [4_] showing hot to use the ClustalW program from the Africa Grid Science Gateway [5_]
+- The MP4 file is a video [4_] showing how to use the ClustalW from the Africa Grid Science Gateway [5_]
 
 ============
 Installation
@@ -88,7 +88,7 @@ In the figure below is shown how the application settings have been configured t
 Usage
 ============
 
-To perform the Multi Sequence Alignment for DNA or proteint the user has to:
+To perform the Multi Sequence Alignment for DNA or protein the user has to:
 
 - click on the *third* accordion of the portlet,
 
@@ -98,7 +98,7 @@ To perform the Multi Sequence Alignment for DNA or proteint the user has to:
 
 - configured additional settings if needed as shown in the below figure:
 
-.. image:: images/FRATT_inputs.jpg
+.. image:: images/CLUSTALW_inputs.jpg
       :align: center
 
 Each simulation will produce:
