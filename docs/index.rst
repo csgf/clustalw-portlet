@@ -1,5 +1,5 @@
 *********************
-CLUSTALW v1.0.1 Docs
+CLUSTALW Docs
 *********************
 
 .. image:: images/ClustalW.jpg
