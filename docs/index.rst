@@ -1,5 +1,5 @@
 *********************
-CLUSTALW Docs
+CLUSTALW
 *********************
 
 .. image:: images/ClustalW.jpg
@@ -131,7 +131,7 @@ A typical simulation produces, at the end, the following files:
         20150601120928_larocca.dnd
 
 ============
-Support
+Contact
 ============
 Please feel free to contact us any time if you have any questions or comments.
 
@@ -143,6 +143,3 @@ Please feel free to contact us any time if you have any questions or comments.
 
  `Giuseppe LA ROCCA <mailto:giuseppe.larocca@ct.infn.it>`_ - Italian National Institute of Nuclear Physics (INFN_),
  
-:Version: v1.0.1, 2015
-
-:Date: June 1st, 2015 12:25
