@@ -131,7 +131,7 @@ A typical simulation produces, at the end, the following files:
         20150601120928_larocca.dnd
 
 ============
-Contact
+Contributor(s)
 ============
 Please feel free to contact us any time if you have any questions or comments.
 
@@ -139,7 +139,6 @@ Please feel free to contact us any time if you have any questions or comments.
 
 :Authors:
  
- `Roberto BARBERA <mailto:roberto.barbera@ct.infn.it>`_ - Italian National Institute of Nuclear Physics (INFN_),
+ Roberto BARBERA - Italian National Institute of Nuclear Physics (INFN_),
 
- `Giuseppe LA ROCCA <mailto:giuseppe.larocca@ct.infn.it>`_ - Italian National Institute of Nuclear Physics (INFN_),
- 
+ Giuseppe LA ROCCA - Italian National Institute of Nuclear Physics (INFN_) 
