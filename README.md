@@ -1,3 +1,7 @@
+[![Travis](http://img.shields.io/travis/csgf/clustalw-portlet/master.png)](https://travis-ci.org/csgf/clustalw-portlet)
+[![Documentation Status](https://readthedocs.org/projects/csgf/badge/?version=latest)](http://csgf.readthedocs.org)
+[![License](https://img.shields.io/github/license/csgf/clustalw-portlet.svg?style?flat)](http://www.apache.org/licenses/LICENSE-2.0.txt)
+
 # clustalw-portlet
 
 <h2>Requirements</h2>
